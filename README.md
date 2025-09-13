@@ -118,7 +118,7 @@ desafio_292/
  bash
 git clone https://github.com/luizfxdev/desafio_292.git
 
-cd pirate-treasure-decoder
+cd desafio_292
 ```
 4. Adicione os Assets
 
